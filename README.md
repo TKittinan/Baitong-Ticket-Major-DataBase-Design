@@ -1,4 +1,4 @@
-#Event Ticketing System – Database Design
+# Event Ticketing System – Database Design
 
 This project is a database design practice for an event ticketing system using PostgreSQL.
 
